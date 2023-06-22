@@ -1,0 +1,14 @@
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe.config
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.pdb
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\bin\Release\Engine.dll
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\bin\Release\Engine.pdb
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.AssemblyReference.cache
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.Properties.Resources.resources
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.Form1.resources
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.cache
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.CoreCompileInputs.cache
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.CopyComplete
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.exe
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.pdb
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.TradingScreen.resources

@@ -1,0 +1,8 @@
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Release\Engine.dll
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Release\Engine.pdb
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Release\Engine.dll
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Release\Engine.pdb
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Release\Engine.csproj.AssemblyReference.cache
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Release\Arango.Client.dll
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Release\Engine.csproj.CopyComplete

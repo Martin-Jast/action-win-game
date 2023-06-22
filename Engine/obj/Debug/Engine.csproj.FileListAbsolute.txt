@@ -1,0 +1,11 @@
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Debug\Engine.dll
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Debug\Engine.pdb
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Debug\Engine.dll
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Debug\Engine.pdb
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Debug\ArangoDBNetStandard.dll
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Debug\Newtonsoft.Json.dll
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Debug\ArangoDBNetStandard.xml
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\bin\Debug\Newtonsoft.Json.xml
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+D:\My_Stuff\Projects\RPGzin\SuperAdventure\Engine\obj\Debug\Engine.csproj.CopyComplete
